@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'll fill this section someday ...
 
 <!--
 Заполнить секции:
